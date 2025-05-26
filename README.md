@@ -10,4 +10,8 @@
   🏊🏽‍♂️ Swimming 
   🐈 Michii 🍵 Matcha
 </pre>
+
+<br></br>
+<img src="./assets/rei_footer.gif" height="80">
+
 </div>
