@@ -16,7 +16,14 @@
 <br></br>
 
 <h4>My Stack</h4>
-<img src="./assets/footer1.png" height="180">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,dart,flutter,html,css,js,matlab,r,unity"><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,gcp,arduino,bootstrap"><br>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker"><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"><br>
+<img src="https://skillicons.dev/icons?i=ai,obsidian">
+
 <h4>In Comming...</h4>
-<img src="./assets/footer2.png" height="40">
+
+<img src="https://skillicons.dev/icons?i=aws,php,laravel,mongodb">
 </div>
