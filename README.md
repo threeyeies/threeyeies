@@ -16,6 +16,8 @@
 <br></br>
 
 <h4>My Stack</h4>
+<img src="./assets/footer1.png" height="180">
+<!--
 <img src="./assets/java.png" height="40">
 <img src="./assets/springboot.png" height="40">
 <img src="./assets/py.png" height="40">
@@ -40,7 +42,7 @@
 <img src="./assets/gemini.png" height="40">
 <img src="./assets/vscode.png" height="40">
 <img src="./assets/vscomunity.png" height="40">
-
+-->
 <h4>In Comming...</h4>
 <img src="./assets/aws.png" height="40">
 <img src="./assets/php.png" height="40">
