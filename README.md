@@ -25,5 +25,5 @@
 
 <h4>In Comming...</h4>
 
-<img src="https://skillicons.dev/icons?i=aws,php,laravel,mongodb">
+<img src="https://skillicons.dev/icons?i=aws,php,laravel,react,mongodb">
 </div>
