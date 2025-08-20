@@ -8,7 +8,7 @@
   🍃 Nature Minimalism and Chill Vibes
   📖 Anime/Manga 🇯🇵🗼Japanese Culture 🎧 Music 🎮 Adventure Games
   🏊🏽‍♂️ Swimming 
-  🐈 Michii 🍵 Matcha
+  🐈 Michii 🍵 Matcha ☕ Coffee
 </pre>
 
 <br></br>
@@ -17,13 +17,14 @@
 
 <h4>My Stack</h4>
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,dart,flutter,html,css,js,matlab,r,unity"><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,gcp,arduino,bootstrap"><br>
-<img src="https://skillicons.dev/icons?i=linux,bash,docker"><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"><br>
+<img src="https://skillicons.dev/icons?i=java,python"><br>
+<img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,bootstrap"><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,gcp"><br>
+<img src="https://skillicons.dev/icons?i=arduino,matlab,unity"><br>
+<img src="https://skillicons.dev/icons?i=linux,docker"><br>
 <img src="https://skillicons.dev/icons?i=ai,obsidian">
 
 <h4>In Comming...</h4>
 
-<img src="https://skillicons.dev/icons?i=aws,php,laravel,react,mongodb">
+<img src="https://skillicons.dev/icons?i=bash,spring,hibernate,php,laravel,react,mongodb,aws">
 </div>
