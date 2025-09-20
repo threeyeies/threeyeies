@@ -17,14 +17,17 @@
 
 <h4>My Stack</h4>
 
-<img src="https://skillicons.dev/icons?i=java,python"><br>
-<img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,bootstrap"><br>
+<img src="https://skillicons.dev/icons?i=java"><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"><br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,gcp"><br>
-<img src="https://skillicons.dev/icons?i=arduino,matlab,unity"><br>
-<img src="https://skillicons.dev/icons?i=linux,docker"><br>
+<img src="https://skillicons.dev/icons?i=linux,docker,arduino"><br>
 <img src="https://skillicons.dev/icons?i=ai,obsidian">
+
+<h5>picked</h5>
+<img src="https://skillicons.dev/icons?i=python,dart,flutter"><br>
+<img src="https://skillicons.dev/icons?i=matlab,unity"><br><br>
 
 <h4>In Comming...</h4>
 
-<img src="https://skillicons.dev/icons?i=bash,spring,hibernate,php,laravel,react,mongodb,aws">
+<img src="https://skillicons.dev/icons?i=bash,spring,hibernate,react,mongodb,aws">
 </div>
