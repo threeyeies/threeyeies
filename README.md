@@ -14,7 +14,9 @@
 <br></br>
 <img src="./assets/rei_footer.gif" height="80">
 <br></br>
-
+<a href="https://drive.google.com/file/d/1Q9lXKQQvDPlJsaqE7LqGZ7D5pzW90x6N/view?usp=drive_link">MyCV</a>
+<a href="https://drive.google.com/file/d/1_peUE42tbdxr73GoN1xXBWuuOyJI_xJD/view?usp=drive_link">MyCV_es</a>
+<br></br>
 <h4>My Stack</h4>
 
 <img src="https://skillicons.dev/icons?i=java"><br>
